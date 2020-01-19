@@ -1,0 +1,2 @@
+# pointedRick
+voice to text
